@@ -59,10 +59,10 @@ The project is built using supervised machine learning techniques and deployed a
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](output screenshots/home_page.png)
 
 ### Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](output screenshots/prediction_result.png)
 
 ---
 
@@ -92,5 +92,6 @@ This project is developed for academic and educational purposes.
 **Siddu Sidharth**  
 Department of CSE (AI & ML)  
 Vignana Bharathi Institute of Technology (VBIT)
+
 
 
