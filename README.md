@@ -59,7 +59,7 @@ The project is built using supervised machine learning techniques and deployed a
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/Siddu0101/heart-health-ai/blob/main/screenshots/Screenshot%202026-01-16%20142839.png)
 
 ### Prediction Result
 ![Prediction Result](screenshots/prediction_result.png)
@@ -92,6 +92,7 @@ This project is developed for academic and educational purposes.
 **Siddu Sidharth**  
 Department of CSE (AI & ML)  
 Vignana Bharathi Institute of Technology (VBIT)
+
 
 
 
