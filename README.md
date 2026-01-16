@@ -91,9 +91,10 @@ This project is developed for academic and educational purposes.
 ---
 
 ##  Author
-**Siddu Sidharth**  
+**Putta Sidhartha**  
 Department of CSE (AI & ML)  
 Vignana Bharathi Institute of Technology (VBIT)
+
 
 
 
