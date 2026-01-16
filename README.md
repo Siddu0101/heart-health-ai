@@ -29,7 +29,7 @@ The project is built using supervised machine learning techniques and deployed a
 - Frontend:HTML, CSS
 - Visualization: Matplotlib
 - Model Serialization:Pickle
-- Deployment Ready: Azure App Service compatible
+  
 
 ---
 
@@ -84,3 +84,4 @@ This project is developed for academic and educational purposes.
 **Siddu Sidharth**  
 Department of CSE (AI & ML)  
 Vignana Bharathi Institute of Technology (VBIT)
+
