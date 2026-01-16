@@ -56,6 +56,13 @@ The project is built using supervised machine learning techniques and deployed a
   - Low Risk (Healthy)  
 - **Confidence Visualization:**  
   - Probability distribution between Healthy and Disease classes  
+## 📸 Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
 
 ---
 
@@ -65,6 +72,7 @@ This project was developed by referring to established and peer-reviewed researc
 The referenced papers are included in the `papers/` directory for academic and learning purposes.
 
 ---
+
 
 ## Future Enhancements
 - Integration of Explainable AI (XAI) techniques
@@ -84,4 +92,5 @@ This project is developed for academic and educational purposes.
 **Siddu Sidharth**  
 Department of CSE (AI & ML)  
 Vignana Bharathi Institute of Technology (VBIT)
+
 
